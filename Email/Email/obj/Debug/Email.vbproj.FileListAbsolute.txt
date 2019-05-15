@@ -1,0 +1,12 @@
+D:\My Programs\Email\Email\bin\Debug\Email.exe.config
+D:\My Programs\Email\Email\bin\Debug\Email.exe
+D:\My Programs\Email\Email\bin\Debug\Email.pdb
+D:\My Programs\Email\Email\bin\Debug\Email.xml
+D:\My Programs\Email\Email\obj\Debug\Email.Form1.resources
+D:\My Programs\Email\Email\obj\Debug\Email.Resources.resources
+D:\My Programs\Email\Email\obj\Debug\Email.vbproj.GenerateResource.Cache
+D:\My Programs\Email\Email\obj\Debug\Email.exe
+D:\My Programs\Email\Email\obj\Debug\Email.xml
+D:\My Programs\Email\Email\obj\Debug\Email.pdb
+D:\My Programs\Email\Email\obj\Debug\Email.vbprojAssemblyReference.cache
+D:\My Programs\Email\Email\obj\Debug\Email.vbproj.CoreCompileInputs.cache
